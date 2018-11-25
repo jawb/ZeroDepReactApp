@@ -6,8 +6,10 @@
     "react-scripts": "2.1.1"
   },
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "history": "^4.7.2",
+    "path-to-regexp": "^2.4.0",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2"
   },
   "scripts": {
     "start": "react-scripts start",
