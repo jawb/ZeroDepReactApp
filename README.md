@@ -1,4 +1,4 @@
-##An experiment to create a zero-dependencies\* app
+## An experiment to create a zero-dependencies\* app
 
 (\*) No redux, redux-react, react-router, react-router-redux, redux-sagas
 
